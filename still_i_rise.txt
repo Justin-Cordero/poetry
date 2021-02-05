@@ -4,9 +4,15 @@
 
 ## Verse 2
 
+<<<<<<< HEAD
 Why are you beset with gloom?
 'Cause I walk like I've got oil wells
 Pumping in my living room.
+=======
+Does my sassiness upset you?
+Why are you beset with gloom?
+'Cause I walk like I've got oil wells
+>>>>>>> 58812ff47fa48fc69cd7d78dcca8ba428d6a1874
 
 ## Verse 3
 
